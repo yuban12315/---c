@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="monitor-c:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/monitor_c_jar</output-path>
+    <root id="archive" name="monitor-c.jar">
+      <element id="module-output" name="monitor-c" />
+    </root>
+  </artifact>
+</component>
